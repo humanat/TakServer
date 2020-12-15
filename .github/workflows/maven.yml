@@ -25,4 +25,4 @@ jobs:
     - uses: actions/upload-artifact@v2
       with:
         name: Package
-        path: target/TakServer-*-jar-with-dependencies.jar
+        path: target/TakServer*jar-with-dependencies.jar

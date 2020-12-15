@@ -80,8 +80,8 @@
 
     <repository>
         <id>github</id>
-        <name>GitHub chaitu236 Apache Maven Packages</name>
-        <url>https://maven.pkg.github.com/chaitu236/TakServer</url>
+        <name>GitHub humanat Apache Maven Packages</name>
+        <url>https://maven.pkg.github.com/humanat/TakServer</url>
     </repository>
 
 </distributionManagement>
